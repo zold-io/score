@@ -23,7 +23,7 @@
 source 'https://rubygems.org'
 gemspec
 
-gem 'minitest', '5.18.1', require: false
+gem 'minitest', '5.25.4', require: false
 gem 'minitest-hooks', '1.5.0', require: false
 gem 'rake-compiler', '1.2.3', require: false
 gem 'rdoc', '6.1.2.1', require: false
